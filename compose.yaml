@@ -1,14 +1,17 @@
 name: OpenSI-CoSMIC
 
 include:
-  - path: ../CoSMIC_DB/compose.yaml
-    project_directory: ../CoSMIC_DB/
+  - path: ../cosmic-db/compose.yaml
+    project_directory: ../cosmic-db/
 
-  - path: ../CoSMIC/compose.yaml
-    project_directory: ../CoSMIC/
+  - path: ../cosmic-core/compose.yaml
+    project_directory: ../cosmic-core/
 
-  - path: ../CoSMIC_UI/compose.yaml
-    project_directory: ../CoSMIC_UI/
+  - path: ../cosmic-auth/compose.yaml
+    project_directory: ../cosmic-auth/
+
+  - path: ../cosmic-platform/compose.yaml
+    project_directory: ../cosmic-platform/
 
 networks:
   cosmic_net:
