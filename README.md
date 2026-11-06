@@ -7,12 +7,14 @@
 # Using HTTPS (recommended for most users)
 git clone https://github.com/TheOpenSI/cosmic-db.git
 git clone https://github.com/TheOpenSI/cosmic-core.git
+git clone https://github.com/TheOpenSI/cosmic-auth.git
 git clone https://github.com/TheOpenSI/cosmic-platform.git
 git clone https://github.com/TheOpenSI/cosmic-docker.git
 
 # Using SSH (recommended if you've SSH keys configured)
 git clone git@github.com:TheOpenSI/cosmic-db.git
 git clone git@github.com:TheOpenSI/cosmic-core.git
+git clone git@github.com:TheOpenSI/cosmic-auth.git
 git clone git@github.com:TheOpenSI/cosmic-platform.git
 git clone git@github.com:TheOpenSI/cosmic-docker.git
 ```
@@ -23,6 +25,7 @@ git clone git@github.com:TheOpenSI/cosmic-docker.git
 # Using HTTPS (recommended for most users)
 git clone https://github.com/TheOpenSI/cosmic-db.git
 git clone https://github.com/TheOpenSI/cosmic-core.git
+git clone https://github.com/TheOpenSI/cosmic-auth.git
 git clone https://github.com/TheOpenSI/cosmic-platform.git
 git clone https://github.com/TheOpenSI/cosmic-docker.git
 
@@ -30,6 +33,7 @@ git clone https://github.com/TheOpenSI/cosmic-docker.git
 # Using SSH (recommended if you've SSH keys configured)
 git clone git@github.com:TheOpenSI/cosmic-db.git
 git clone git@github.com:TheOpenSI/cosmic-core.git
+git clone git@github.com:TheOpenSI/cosmic-auth.git
 git clone git@github.com:TheOpenSI/cosmic-platform.git
 git clone git@github.com:TheOpenSI/cosmic-docker.git
 ```
@@ -38,6 +42,7 @@ git clone git@github.com:TheOpenSI/cosmic-docker.git
 
 - [`cosmic-db` README.md](https://github.com/TheOpenSI/cosmic-db/blob/main/README.md)
 - [`cosmic-core` README.md](https://github.com/TheOpenSI/cosmic-core/blob/main/README.md)
+- [`cosmic-auth` README.md](https://github.com/TheOpenSI/cosmic-auth/blob/main/README.md)
 - [`cosmic-platform` README.md](https://github.com/TheOpenSI/cosmic-platform/blob/main/README.md)
 
 3. Spin up the unified compose file
