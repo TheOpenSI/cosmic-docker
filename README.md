@@ -9,6 +9,7 @@ git clone https://github.com/TheOpenSI/cosmic-db.git
 git clone https://github.com/TheOpenSI/cosmic-core.git
 git clone https://github.com/TheOpenSI/cosmic-auth.git
 git clone https://github.com/TheOpenSI/cosmic-platform.git
+git clone https://github.com/TheOpenSI/cosmic-docs.git
 git clone https://github.com/TheOpenSI/cosmic-docker.git
 
 # Using SSH (recommended if you've SSH keys configured)
@@ -16,6 +17,7 @@ git clone git@github.com:TheOpenSI/cosmic-db.git
 git clone git@github.com:TheOpenSI/cosmic-core.git
 git clone git@github.com:TheOpenSI/cosmic-auth.git
 git clone git@github.com:TheOpenSI/cosmic-platform.git
+git clone git@github.com:TheOpenSI/cosmic-docs.git
 git clone git@github.com:TheOpenSI/cosmic-docker.git
 ```
 
@@ -27,6 +29,7 @@ git clone https://github.com/TheOpenSI/cosmic-db.git
 git clone https://github.com/TheOpenSI/cosmic-core.git
 git clone https://github.com/TheOpenSI/cosmic-auth.git
 git clone https://github.com/TheOpenSI/cosmic-platform.git
+git clone https://github.com/TheOpenSI/cosmic-docs.git
 git clone https://github.com/TheOpenSI/cosmic-docker.git
 
 
@@ -35,6 +38,7 @@ git clone git@github.com:TheOpenSI/cosmic-db.git
 git clone git@github.com:TheOpenSI/cosmic-core.git
 git clone git@github.com:TheOpenSI/cosmic-auth.git
 git clone git@github.com:TheOpenSI/cosmic-platform.git
+git clone git@github.com:TheOpenSI/cosmic-docs.git
 git clone git@github.com:TheOpenSI/cosmic-docker.git
 ```
 
@@ -64,3 +68,8 @@ docker compose up --build -d # Docker run through lightweight Linux VM on Window
 ```
 
 **The build process will take a while to fully up depending on your internet connection.**
+
+---
+# Conventions
+
+This repository follows the shared [EditorConfig conventions](docs/conventions/EDITORCONFIG.md). See the [live documentation](https://github.com/TheOpenSI/cosmic-docs/blob/main/docs/06-development/editorconfig.md) for the rules and editor setup.
