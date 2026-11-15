@@ -48,6 +48,7 @@ git clone git@github.com:TheOpenSI/cosmic-docker.git
 - [`cosmic-core` README.md](https://github.com/TheOpenSI/cosmic-core/blob/main/README.md)
 - [`cosmic-auth` README.md](https://github.com/TheOpenSI/cosmic-auth/blob/main/README.md)
 - [`cosmic-platform` README.md](https://github.com/TheOpenSI/cosmic-platform/blob/main/README.md)
+- [`cosmic-docs` README.md](https://github.com/TheOpenSI/cosmic-docs/blob/main/README.md)
 
 3. Spin up the unified compose file
 

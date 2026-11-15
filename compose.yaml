@@ -13,6 +13,9 @@ include:
   - path: ../cosmic-platform/compose.yaml
     project_directory: ../cosmic-platform/
 
+  - path: ../cosmic-docs/compose.yaml
+    project_directory: ../cosmic-docs/
+
 networks:
   cosmic_net:
     name: cosmic_net
